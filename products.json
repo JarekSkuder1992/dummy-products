@@ -1,51 +1,53 @@
-[
-  {
-    "id": 1,
-    "name": "iPhone 11",
-    "category": "mobilePhones",
-    "description": "iPhone 11 is our new mobile phone. Very nice phone.",
-    "colors": ["white", "black", "blue", "red"]
-  },
-  {
-    "id": 2,
-    "name": "iPhone 12",
-    "category": "mobilePhones",
-    "description": "iPhone 12 is our new mobile phone. Very nice phone.",
-    "colors": ["red"]
-  },
-  {
-    "id": 3,
-    "name": "iPhone 13",
-    "category": "mobilePhones",
-    "description": "iPhone 13 is our new mobile phone. Very nice phone.",
-    "colors": ["white", "black"]
-  },
-  {
-    "id": 4,
-    "name": "iPhone 14",
-    "category": "mobilePhones",
-    "description": "iPhone 14 is our new mobile phone. Very nice phone.",
-    "colors": ["white", "red"]
-  },
-  {
-    "id": 5,
-    "name": "Samsung Galaxy 20",
-    "category": "mobilePhones",
-    "description": "Samsung Galaxy 20 is our new mobile phone. Very nice phone.",
-    "colors": ["white", "black", "blue", "red"]
-  },
-  {
-    "id": 6,
-    "name": "Samsung Galaxy 21",
-    "category": "mobilePhones",
-    "description": "Samsung Galaxy 21 is our new mobile phone. Very nice phone.",
-    "colors": ["white", "black", "blue", "red"]
-  },
-  {
-    "id": 7,
-    "name": "Samsung Galaxy 22",
-    "category": "mobilePhones",
-    "description": "Samsung Galaxy 22 is our new mobile phone. Very nice phone.",
-    "colors": ["white", "black", "blue", "red"]
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 11",
+      "category": "mobilePhones",
+      "description": "iPhone 11 is our new mobile phone. Very nice phone.",
+      "colors": ["white", "black", "blue", "red"]
+    },
+    {
+      "id": 2,
+      "name": "iPhone 12",
+      "category": "mobilePhones",
+      "description": "iPhone 12 is our new mobile phone. Very nice phone.",
+      "colors": ["red"]
+    },
+    {
+      "id": 3,
+      "name": "iPhone 13",
+      "category": "mobilePhones",
+      "description": "iPhone 13 is our new mobile phone. Very nice phone.",
+      "colors": ["white", "black"]
+    },
+    {
+      "id": 4,
+      "name": "iPhone 14",
+      "category": "mobilePhones",
+      "description": "iPhone 14 is our new mobile phone. Very nice phone.",
+      "colors": ["white", "red"]
+    },
+    {
+      "id": 5,
+      "name": "Samsung Galaxy 20",
+      "category": "mobilePhones",
+      "description": "Samsung Galaxy 20 is our new mobile phone. Very nice phone.",
+      "colors": ["white", "black", "blue", "red"]
+    },
+    {
+      "id": 6,
+      "name": "Samsung Galaxy 21",
+      "category": "mobilePhones",
+      "description": "Samsung Galaxy 21 is our new mobile phone. Very nice phone.",
+      "colors": ["white", "black", "blue", "red"]
+    },
+    {
+      "id": 7,
+      "name": "Samsung Galaxy 22",
+      "category": "mobilePhones",
+      "description": "Samsung Galaxy 22 is our new mobile phone. Very nice phone.",
+      "colors": ["white", "black", "blue", "red"]
+    }
+  ]
+}
